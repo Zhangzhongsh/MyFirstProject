@@ -1,0 +1,15 @@
+"D:\IAR IDE\arm\bin\armproc.dll" 
+
+"D:\IAR IDE\arm\bin\armstlink2.dll" 
+
+"F:\HAL_Cube_Project\TEXT_HANJIA\FreeRTOS_test\FreeRTOS\EWARM\FreeRTOS\Exe\FreeRTOS.out" 
+
+--plugin="D:\IAR IDE\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR IDE\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="D:\IAR IDE\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
