@@ -43,6 +43,7 @@ freertos\freertos.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 freertos\freertos.o: ../Core/Inc/usart.h
 freertos\freertos.o: ../Core/Inc/main.h
 freertos\freertos.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+freertos\freertos.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
 freertos\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 freertos\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
 freertos\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

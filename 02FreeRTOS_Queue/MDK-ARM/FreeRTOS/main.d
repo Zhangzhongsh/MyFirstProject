@@ -34,6 +34,7 @@ freertos\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 freertos\main.o: ../Core/Inc/usart.h
 freertos\main.o: ../Core/Inc/main.h
 freertos\main.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+freertos\main.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
 freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
 freertos\main.o: ../Core/Inc/FreeRTOSConfig.h

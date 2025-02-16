@@ -34,3 +34,4 @@ freertos\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_
 freertos\stm32f4xx_hal_msp.o: ../Core/Inc/usart.h
 freertos\stm32f4xx_hal_msp.o: ../Core/Inc/main.h
 freertos\stm32f4xx_hal_msp.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+freertos\stm32f4xx_hal_msp.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdlib.h

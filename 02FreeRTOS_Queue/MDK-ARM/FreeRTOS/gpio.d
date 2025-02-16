@@ -35,3 +35,4 @@ freertos\gpio.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 freertos\gpio.o: ../Core/Inc/usart.h
 freertos\gpio.o: ../Core/Inc/main.h
 freertos\gpio.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+freertos\gpio.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdlib.h

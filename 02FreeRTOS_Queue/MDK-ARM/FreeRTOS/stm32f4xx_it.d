@@ -34,4 +34,5 @@ freertos\stm32f4xx_it.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.
 freertos\stm32f4xx_it.o: ../Core/Inc/usart.h
 freertos\stm32f4xx_it.o: ../Core/Inc/main.h
 freertos\stm32f4xx_it.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+freertos\stm32f4xx_it.o: D:\stm32MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
 freertos\stm32f4xx_it.o: ../Core/Inc/stm32f4xx_it.h
